@@ -377,7 +377,7 @@
     * [TODO: AndroPyTool](reverse-engineering/android/tools/andropytool.md)
     * [TODO: LIEF-project](reverse-engineering/android/tools/todo-lief-project.md)
     * [TODO: MobSF](reverse-engineering/android/tools/todo-mobsf.md)
-    * [TODO: JADX](reverse-engineering/android/tools/todo-jadx.md)
+    * [JADX](reverse-engineering/android/tools/jadx.md)
     * [dex2jar](reverse-engineering/android/tools/dex2jar.md)
     * [Diff APKs, JARs,..](reverse-engineering/android/tools/diff-apks-jars-...md)
     * [APKiD](reverse-engineering/android/tools/apkid.md)
