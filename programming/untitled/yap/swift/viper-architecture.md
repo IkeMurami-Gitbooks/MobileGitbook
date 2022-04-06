@@ -6,3 +6,5 @@
 * Предпочтительнее использовать dependency injection, чем dependencies.
 * Предпочтительнее композиция, чем наследование, так как в Swift не поддерживает множественное наследование.
 * Используем расширения для протоколов, чтобы сделать реализацию методов по-умолчанию.
+
+Темплейт под VIPER архитектуру: [https://github.com/infinum/iOS-VIPER-Xcode-Templates](https://github.com/infinum/iOS-VIPER-Xcode-Templates)
