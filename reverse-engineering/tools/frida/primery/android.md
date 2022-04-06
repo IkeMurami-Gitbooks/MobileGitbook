@@ -44,10 +44,10 @@ Object.getOwnPropertyNames(java_class_obj)
 class A {
 	private int b;
 }
-var classA = Java.use("A");
-var objClassA = Java.cast(pointer, classA);
+const classA = Java.use("A");
+let objClassA = Java.cast(pointer, classA);
 java_msg(Object.getOwnPropertyNames(objClassA.__proto__).join(' ')); -> посмотрели какие методы и поля у класса
-var field_b = objClassA._b.value; -> а это уже наше поле
+const field_b = objClassA._b.value; -> а это уже наше поле
 ```
 
 #### Обращение к любым полям объекта по имени
@@ -69,7 +69,9 @@ const somePropertyOrMethodObj = klass_obj['some_prop']
 const value = somePropertyOrMethodObj.value
 ```
 
-#### Вывести массив как hex-строку:
+#### Работа с массивами
+
+Вывести массив как hex-строку:
 
 ```javascript
 Вывести array как hex-строку: byte[3412341241]:
@@ -81,6 +83,20 @@ for(let i = 0; i < buffer.length; ++i){
     result += ('0' + (buffer[i] & 0xff).toString(16)).slice(-2);
 }
 console.log(result);
+```
+
+Вывести массив как строку:
+
+```javascript
+function Array2String(arr) {
+    let buffer = Java.array('byte', arr)
+    let result = ""
+    for(let i = 0; i < buffer.length; ++i){
+        result += (String.fromCharCode(buffer[i] & 0xff)); // here!!
+    }
+
+    return result
+}
 ```
 
 #### Вывести объект
