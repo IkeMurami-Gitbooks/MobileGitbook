@@ -8,7 +8,7 @@ description: >-
 
 ## Install
 
-site: [http://www.libimobiledevice.org/](http://www.libimobiledevice.org)
+site: [http://www.libimobiledevice.org/](http://www.libimobiledevice.org/)
 
 ### MacOS
 
@@ -34,6 +34,10 @@ example usage:\
 ### iproxy
 
 Проброс портов over SSH USB
+
+### ideviceinstaller
+
+Позволяет управлять приложениями на устройстве: [https://github.com/libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller)
 
 ## Аналог на Go?
 

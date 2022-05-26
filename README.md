@@ -8,7 +8,7 @@ My name is Oleg Petrakov.&#x20;
 
 In the Telegram you can find me under the nickname @IkeMurami
 
-List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io)
+List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io/)
 
 ## About GitBook
 

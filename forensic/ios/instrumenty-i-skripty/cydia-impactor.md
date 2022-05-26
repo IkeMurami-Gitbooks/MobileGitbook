@@ -7,3 +7,5 @@ description: Тулза для установки приложений на iPho
 Connect your iPhone\
 Drag & Drop ipa-image\
 apple-id/app specific passwor, app specific password - этот пароль генерится в account/manage
+
+Link: [http://www.cydiaimpactor.com/](http://www.cydiaimpactor.com/)

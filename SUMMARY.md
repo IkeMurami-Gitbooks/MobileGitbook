@@ -247,6 +247,7 @@
     * [backup reader](forensic/ios/instrumenty-i-skripty/backup-reader.md)
     * [libimobiledevice](forensic/ios/instrumenty-i-skripty/libimobiledevice.md)
     * [Cydia Impactor](forensic/ios/instrumenty-i-skripty/cydia-impactor.md)
+    * [App Signature](forensic/ios/instrumenty-i-skripty/app-signature.md)
   * [Архитектура ОС](forensic/ios/arkhitektura-os/README.md)
     * [Шифрование приложений](forensic/ios/arkhitektura-os/shifrovanie-prilozhenii.md)
     * [Архитектура iOS приложения](forensic/ios/arkhitektura-os/arkhitektura-ios-prilozheniya.md)

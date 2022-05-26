@@ -12,6 +12,6 @@ Start - generate project: [https://github.com/libgdx/libgdx/wiki/Project-Setup-G
 
 ## KTX (Kotlin)
 
-порт LibGDX на Kotlin: [https://libktx.github.io/](https://libktx.github.io)
+порт LibGDX на Kotlin: [https://libktx.github.io/](https://libktx.github.io/)
 
 ## Как редакторы лучше использовать Tiled и Spine

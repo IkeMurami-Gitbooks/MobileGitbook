@@ -8,7 +8,7 @@ Xamarin \
 ReactJS\
 Hermes (от facebook)\
 Unity\
-Exponent JS: [https://expo.io/](https://expo.io)
+Exponent JS: [https://expo.io/](https://expo.io/)
 
 ### Xamarin App: Frida Hooks
 

@@ -57,7 +57,7 @@ host $> adb pull <Путь> # и никакого рута не надо :)
 
 ### Termux
 
-[Termux](https://termux.com) - linux on Android\
+[Termux](https://termux.com/) - linux on Android\
 Можно использовать для запуска git и прочего дерьма на андроиде\
 Пример установки пакета:
 
