@@ -202,6 +202,7 @@
   * [TestFeiry](programming/distribyuciya/testfeiry.md)
   * [TestFlight](programming/distribyuciya/testflight.md)
   * [Transporter.app](programming/distribyuciya/transporter.app.md)
+  * [Firebase AppDistribution](programming/distribyuciya/firebase-appdistribution.md)
 
 ## Forensic
 
