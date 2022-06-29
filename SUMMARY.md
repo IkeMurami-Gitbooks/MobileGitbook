@@ -259,6 +259,8 @@
 * [Уязвимости и Атаки](pentest/uyazvimosti-i-ataki/README.md)
   * [Изи баги](pentest/uyazvimosti-i-ataki/izi-bagi.md)
   * [Common](pentest/uyazvimosti-i-ataki/common.md)
+  * [iOS](pentest/uyazvimosti-i-ataki/ios.md)
+  * [Android](pentest/uyazvimosti-i-ataki/android.md)
   * [AppLinks](pentest/uyazvimosti-i-ataki/applinks.md)
   * [Auth](pentest/uyazvimosti-i-ataki/auth/README.md)
     * [Biometrics bypass](pentest/uyazvimosti-i-ataki/auth/biometrics-bypass.md)
