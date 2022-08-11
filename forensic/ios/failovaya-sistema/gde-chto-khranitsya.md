@@ -1,5 +1,7 @@
 # Где что хранится
 
+Статья на 4PDA: [https://4pda.ru/forum/index.php?showtopic=641685](https://4pda.ru/forum/index.php?showtopic=641685)
+
 Keychain DB: `/private/var/Keychains/` _, а копия здесь: `/Library/Keychains/`_\
 CallHistoryDB: `/private/var/mobile/Library/CallHistoryDB/CallHistory.storedata`
 
