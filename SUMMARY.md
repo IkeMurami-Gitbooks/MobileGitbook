@@ -316,6 +316,7 @@
     * [Network](pentest/nastroika-okruzheniya/android/network/README.md)
       * [Запись трафика Android](pentest/nastroika-okruzheniya/android/network/zapis-trafika-android.md)
       * [Android: SSL Unpinning](pentest/nastroika-okruzheniya/android/network/ssl-unpinning.md)
+* [Mitigations](pentest/mitigations.md)
 * [Books & Papers](pentest/books-and-papers.md)
 * [Companies & People & Blogs](pentest/companies-and-people-and-blogs.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
