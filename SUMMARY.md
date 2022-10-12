@@ -385,6 +385,7 @@
   * [Facebook SDK](reverse-engineering/ios/facebook-sdk.md)
   * [Swift](reverse-engineering/ios/swift.md)
   * [Attack Secure Boot of SEP](reverse-engineering/ios/attack-secure-boot-of-sep.md)
+  * [iOS Kernel Firmware](reverse-engineering/ios/ios-kernel-firmware.md)
 * [Tools](reverse-engineering/tools/README.md)
   * [frida](reverse-engineering/tools/frida/README.md)
     * [Установка](reverse-engineering/tools/frida/ustanovka.md)
