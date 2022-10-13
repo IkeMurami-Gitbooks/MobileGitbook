@@ -379,6 +379,7 @@
   * [Tools](reverse-engineering/ios/tools/README.md)
     * [iRET](reverse-engineering/ios/tools/iret.md)
     * [xcrun](reverse-engineering/ios/tools/xcrun.md)
+    * [otool](reverse-engineering/ios/tools/otool.md)
   * [Патчинг](reverse-engineering/ios/patching.md)
   * [Start iOS Debug Server](reverse-engineering/ios/start-ios-debug-server.md)
   * [iOS Audio Framework](reverse-engineering/ios/ios-audio-framework.md)
