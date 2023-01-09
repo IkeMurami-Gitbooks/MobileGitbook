@@ -154,6 +154,10 @@ Save the file and assemble HASM to the HBC by using hbctool.
 и далее подписываем apk
 ```
 
+## hermes-dec
+
+Инструмент от P1sec: [https://github.com/P1sec/hermes-dec/](https://github.com/P1sec/hermes-dec/)
+
 ## \[Frida] Android
 
 подключение к ядру, исполнить код не смог пока
