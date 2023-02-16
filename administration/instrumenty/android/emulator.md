@@ -4,22 +4,36 @@ description: Инструмент для запуска AVD
 
 # emulator
 
-Находится по пути: $ANDROID\_SDK/tools/
+Находится по пути: `$ANDROID_SDK/emulator/`
+
+## Usage
+
+### Список AVD эмуляторов
+
+```
+emulator -list-avds
+```
+
+### Запуск эмулятора
 
 ```
 Общий синтаксис:
 emulator -avd avd_name [ {-option [value]} … ]
 
-default: emulator -avd avd_name -netdelay none -netspeed full
+Запуск по умолчанию: 
+emulator -avd avd_name -netdelay none -netspeed full
 
+Запуск с фс в режиме записи (например, для добавления своих сертификатов)
+emulator -avd avd_name -writable-system
+```
+
+### Основные опции команды emulator
+
+```
 Help по всем командам: 
 emulator -help
 emulator -help-<command>
 
-Список AVD:
-emulator -list-avds
-
-Основные опции:
 1. Quick Boot
 -no-snapshot-load - загрузить не из снапшота, при выходе делается снапшот
 -no-snapshot-save - загрузить из последнего снапшота, но при выходе снапшот не делать
@@ -43,7 +57,11 @@ emulator -list-avds
 7. UI
 -no-boot-anim - отключить анимацию во время запуска: ускоряет общий процесс
 
-Advanced options:
+```
+
+### Дополнительные опции команды emulator
+
+```
 -no-window - отключить изображение
 -shell - дать root-shell
 -snapshot <name> - имя для снапшота, с которого осуществляется загрузка и сохранение
@@ -52,6 +70,8 @@ Advanced options:
 -writable-system - сделать разделы системы writable
 
 ```
+
+## Консоль управления эмулятором
 
 После запуска эмулятора, будет доступна консоль для управления им. Пример подключения: `telnet localhost 5554`
 
