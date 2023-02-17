@@ -3,6 +3,8 @@
 Подробно, как пользоваться ADB:\
 [https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8](https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8)
 
+Супер-подробно как пользоваться ADB: [https://github.com/mzlogin/awesome-adb/blob/master/README.en.md](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+
 Флаги permissions:\
 [https://android.googlesource.com/platform/frameworks/base/+/483d785b4239f5f50e2f72292faa7a65b51160dc/docs/html/tools/help/adb.jd](https://android.googlesource.com/platform/frameworks/base/+/483d785b4239f5f50e2f72292faa7a65b51160dc/docs/html/tools/help/adb.jd)
 
