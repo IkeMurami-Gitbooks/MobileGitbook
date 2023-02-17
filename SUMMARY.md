@@ -266,6 +266,7 @@
     * [Biometrics bypass](pentest/uyazvimosti-i-ataki/auth/biometrics-bypass.md)
     * [PIN Bruteforce](pentest/uyazvimosti-i-ataki/auth/pin-bruteforce.md)
     * [Типичные ошибки реализации SMS-аутентификации](pentest/uyazvimosti-i-ataki/auth/tipichnye-oshibki-realizacii-sms-autentifikacii.md)
+  * [USSD Attack](pentest/uyazvimosti-i-ataki/ussd-attack.md)
   * [Java Object Deserialization](pentest/uyazvimosti-i-ataki/java-object-deserialization.md)
   * [Lack of binary protection (anti-debugging) controls](pentest/uyazvimosti-i-ataki/lack-of-binary-protection-anti-debugging-controls.md)
   * [Disabled security features in binary libraries](pentest/uyazvimosti-i-ataki/disabled-security-features-in-binary-libraries.md)
