@@ -14,3 +14,6 @@ description: >-
 создаем файл `index.html` со следующим содержимым: `<script src="index.android.bundle"></script>`.
 
 Далее, открываем браузером (Google, FF, etc), лезем в сорцы и видим норм проект\
+
+
+ReactNative Debugging Tools: [https://www.netguru.com/codestories/react-native-debugging-tools](https://www.netguru.com/codestories/react-native-debugging-tools)
