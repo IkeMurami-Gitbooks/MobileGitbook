@@ -9,3 +9,5 @@ Frida-сервер — нужно поднимать на стороне моб�
 
 * iOS: [cydia](https://frida.re/docs/ios/)
 * Android: [frida-server-\*-android-\*](https://github.com/frida/frida/releases)
+
+Запуск Frida & Objection без джейла (не проверял): [https://infosecwriteups.com/frida-objection-without-jailbreak-27a66501bf38](https://infosecwriteups.com/frida-objection-without-jailbreak-27a66501bf38)
