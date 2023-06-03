@@ -332,6 +332,7 @@
     * [meetle](pentest/instrumenty-i-skripty/ios/meetle.md)
     * [Static Analys with Frida](pentest/instrumenty-i-skripty/ios/static-analys-with-frida.md)
     * [iFunBox](pentest/instrumenty-i-skripty/ios/ifunbox.md)
+    * [iOS Binary Analysis](pentest/instrumenty-i-skripty/ios/ios-binary-analysis.md)
     * [needle](pentest/instrumenty-i-skripty/ios/needle.md)
     * [idb](pentest/instrumenty-i-skripty/ios/idb.md)
     * [ios emulator](pentest/instrumenty-i-skripty/ios/ios-emulator.md)
