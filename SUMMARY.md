@@ -142,6 +142,7 @@
       * [Install and Build](programming/android/frameworks/ndk/install-and-build.md)
       * [OpenSSL](programming/android/frameworks/ndk/openssl.md)
       * [libgit2 build](programming/android/frameworks/ndk/libgit2-build.md)
+    * [Navigation](programming/android/frameworks/navigation.md)
     * [Работа с изображениями](programming/android/frameworks/rabota-s-izobrazheniyami/README.md)
       * [Glide](programming/android/frameworks/rabota-s-izobrazheniyami/glide.md)
     * [Video/Audio](programming/android/frameworks/video-audio/README.md)
