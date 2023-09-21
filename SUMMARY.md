@@ -411,6 +411,7 @@
   * [Hybrid App](reverse-engineering/keisy/hybrid-app/README.md)
     * [Intro](reverse-engineering/keisy/hybrid-app/debug-webview-hybrid-app.md)
     * [Hermes](reverse-engineering/keisy/hybrid-app/hermes.md)
+    * [Xamarin](reverse-engineering/keisy/hybrid-app/xamarin.md)
     * [React Native](reverse-engineering/keisy/hybrid-app/react-native.md)
     * [Unity](reverse-engineering/keisy/hybrid-app/unity.md)
     * [Debug Hybrid App](reverse-engineering/keisy/hybrid-app/debug-hybrid-app.md)
