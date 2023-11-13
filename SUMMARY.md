@@ -182,6 +182,7 @@
 * [Hybrid App](programming/hybrid-app/README.md)
   * [Frameworks](programming/hybrid-app/frameworks-1/README.md)
     * [Frameworks List](programming/hybrid-app/frameworks-1/frameworks.md)
+    * [Electron](programming/hybrid-app/frameworks-1/electron.md)
     * [React Native](programming/hybrid-app/frameworks-1/reactnative.md)
   * [Google Web Toolkit](programming/hybrid-app/google-web-toolkit.md)
   * [Dart/Flutter](programming/hybrid-app/dart-flutter.md)
