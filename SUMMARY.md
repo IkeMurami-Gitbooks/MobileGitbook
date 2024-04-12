@@ -203,7 +203,7 @@
   * [Diawi](programming/distribyuciya/diawi.md)
   * [Google Play](programming/distribyuciya/google-play.md)
   * [Hockey App](programming/distribyuciya/hockey-app.md)
-  * [TestFeiry](programming/distribyuciya/testfeiry.md)
+  * [TestFairy](programming/distribyuciya/testfeiry.md)
   * [TestFlight](programming/distribyuciya/testflight.md)
   * [Transporter.app](programming/distribyuciya/transporter.app.md)
   * [Firebase AppDistribution](programming/distribyuciya/firebase-appdistribution.md)
