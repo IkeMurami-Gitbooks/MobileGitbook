@@ -18,7 +18,7 @@ _-//- приложений: `/System/Library/Frameworks`_\
 _Часть фреймворков хранится в `/System/Library/AccessibilityBundles/`_
 
 На iOS по пути `<container>/Documents/<some_name>` - может лежать база. Она заполняется с помощью класса (или интерфейса) [NSPersistentStore](https://developer.apple.com/documentation/coredata/nspersistentstore?language=objc) \
-__Создается следующей функцией: [https://developer.apple.com/documentation/coredata/nspersistentstorecoordinator/1468860-addpersistentstorewithtype?language=objc](https://developer.apple.com/documentation/coredata/nspersistentstorecoordinator/1468860-addpersistentstorewithtype?language=objc)\
+Создается следующей функцией: [https://developer.apple.com/documentation/coredata/nspersistentstorecoordinator/1468860-addpersistentstorewithtype?language=objc](https://developer.apple.com/documentation/coredata/nspersistentstorecoordinator/1468860-addpersistentstorewithtype?language=objc)\
 Пример, как с этим всем работают: [https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/InitializingtheCoreDataStack.html](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/InitializingtheCoreDataStack.html)
 
 Фото и тп: /private/var/mobile/Media - но там все на базы закручено, просто так не докинешь
