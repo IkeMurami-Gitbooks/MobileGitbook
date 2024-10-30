@@ -180,6 +180,7 @@
     * [Kotlin](programming/android/primery/kotlin.md)
   * [API levels & NDK Version](programming/android/api-levels-and-ndk-version.md)
 * [Hybrid App](programming/hybrid-app/README.md)
+  * [PWA](programming/hybrid-app/pwa.md)
   * [Frameworks](programming/hybrid-app/frameworks-1/README.md)
     * [Frameworks List](programming/hybrid-app/frameworks-1/frameworks.md)
     * [Electron](programming/hybrid-app/frameworks-1/electron.md)
