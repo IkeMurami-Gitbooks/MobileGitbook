@@ -1,7 +1,7 @@
 # Create/Decrypt Backup
 
 Какие-то скрипты, связанные с расшифрованием iTunes Backup'ов (возможно, старые). Откуда взялись: Google предоставил тулзу по извлечению данных своих приложений из зашифрованных ITunes бэкапов.\
-[https://github.com/dinosec/iphone-dataprotection/tree/master/python\_scripts](https://github.com/dinosec/iphone-dataprotection/tree/master/python\_scripts)\
+[https://github.com/dinosec/iphone-dataprotection/tree/master/python\_scripts](https://github.com/dinosec/iphone-dataprotection/tree/master/python_scripts)\
 [https://github.com/dinosec/iphone-dataprotection-xcode5](https://github.com/dinosec/iphone-dataprotection-xcode5)
 
 Смотреть Python Scripts
@@ -10,3 +10,4 @@
 
 Попытка чтения бэкапов iTunes (без расшифровки): [https://github.com/Siguza/imobax](https://github.com/Siguza/imobax)
 
+Еще какой-то скрипт: [https://github.com/piotrbania/ios\_forensics\_suite](https://github.com/piotrbania/ios_forensics_suite)
